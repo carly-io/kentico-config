@@ -1,0 +1,20 @@
+
+Users
+  - remove Andy
+  - set administrator password and email address
+  
+Global > Settings > Content
+  - Multilingual: default site culture -> set
+
+Global > Settings > URLs and SEO
+  - Document URLs: Remember original URLs when moving documents -> uncheck
+
+
+
+
+
+
+
+
+
+
