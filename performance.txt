@@ -1,0 +1,4 @@
+Webparts
+  - disable viewstate for every webpart added, unless absolutely necessary
+  - consider applying appropriate caching per webpart
+  
