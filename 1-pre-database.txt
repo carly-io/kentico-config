@@ -1,0 +1,8 @@
+CKEditor
+  - P/BR action is mapped incorrectly. Swap it so that ENTER causes a P.
+  - force paste as plaintext by default
+
+web.config
+  - 404 handling (http://devnet.kentico.com/docs/devguide/index.html?custom_url_extensions_iis7.htm)
+  - default UI culture (http://devnet.kentico.com/docs/devguide/index.html?ui_cultures_and_localization_overview.htm)
+  
