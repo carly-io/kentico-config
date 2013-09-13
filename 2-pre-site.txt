@@ -1,4 +1,3 @@
-
 Users
   - remove Andy
   - set administrator password and email address
@@ -9,12 +8,6 @@ Global > Settings > Content
 Global > Settings > URLs and SEO
   - Document URLs: Remember original URLs when moving documents -> uncheck
 
-
-
-
-
-
-
-
-
+Global > Settings > System > Output filter
+  - Consider disabling all XHTML filters if your markup will be good. Disabling these filters can improve performance, and if your markup is good then these are unnecessary. This should be done at the start so that it's consistent for your devs and testers.
 
